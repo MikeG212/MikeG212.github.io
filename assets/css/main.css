@@ -3890,3 +3890,8 @@ input, select, textarea {
 			}
 
 		}
+	#headshot {
+		float: right;
+		margin: 25px;
+
+	}
