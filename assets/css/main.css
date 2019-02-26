@@ -3895,3 +3895,7 @@ input, select, textarea {
 		margin: 25px;
 
 	}
+
+	.projectPic {
+		max-width: 370px;
+	}
